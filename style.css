@@ -1,0 +1,29 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    size-adjust: 1440px;
+
+}
+.bloco{
+    margin-top: 200px;
+    margin-right: 830px;
+    margin-left: 830px;
+    background-color: white;
+    text-align: center;
+    border: 10px solid white;
+    border-radius: 10px;
+
+}
+img{
+    border-radius: 10px;
+
+}
+.Texto1{
+    font-weight: 900;
+    font-size: 15px;
+    color: black;
+
+}
+.Texto2{
+    font-size: 12px;
+    color: hsl(220, 15%, 55%);
+}
